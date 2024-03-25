@@ -390,7 +390,7 @@ model.add(Dense(units=36, activation='softmax')){% endhighlight %}
 
 * The data we will be using contains images of alphabets (A-Z) and digits (0–9) of size 28x28, also the data is balanced so we won’t have to do any kind of data tuning here.
 
-* I’ve created a [zip file](https://github.com/SarthakV7/AI-based-indian-license-plate-detection/blob/master/data.zip) that contains data as per the directory structure below, with a train test split of 80:20
+* I’ve created a [zip file](https://github.com/BottomsNode/PlateAI-Indian-License-Plate-Detection-Master/tree/main/data) that contains data as per the directory structure below, with a train test split of 80:20
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-1">
