@@ -1,21 +1,3 @@
-<div class="row mt-3">
-    <div class="col-sm mt-3 mt-md-1">
-        <img class="img-fluid rounded z-depth-0" src="https://cdn-images-1.medium.com/max/3200/1*Fh9BMaEwSRsCFOFvQnC2ww.jpeg">
-    </div>
-</div>
-
-![]()
-
-#### **Inspiration:**
-The guy who hit my car and got away with it!
-
-![]()
-
-#### **Backstory:**
-After a memorable evening with friends as we were about to leave for our home there was something that made that evening even more memorable, a huge dent in my car’s front bumper, seemed it was hit by another vehicle, but who to blame? There was no one around who would have witnessed that. And what could I do about it?  I’ll tell you exactly what I did about it. I decided to use my machine learning and data skills and make an AI-based Indian License plate detector that was capable enough to keep a watch on a vehicle by detecting the number plates of vehicles around it and in this blog I’ll be taking you guys through my journey of how I did it! First things first: There is always a scope of improvising, so if you come up with some better ideas or doubts regarding this project please do use the response section below.
-
-![]()
-
 ### Approach:
 
 **We need to build a system that is capable of -**
