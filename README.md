@@ -127,7 +127,7 @@ def extract_plate(img): # the function detects and perfors blurring on the numbe
 	return plate_img, plate # returning the processed image
  {% endhighlight %}
 
-The above function works by taking image as input, then applying ‘haar cascade’ that is pre-trained to detect Indian license plates, here the parameter scaleFactor stands for a value by which input image can be scaled for better detection of license plate ([know more](https://sites.google.com/site/5kk73gpu2012/assignment/viola-jones-face-detection#TOC-Image-Pyramid)). minNeighbors is just a parameter to reduce false positives, if this value is low, the algorithm may be more prone to giving a misrecognized outputs. (you can download the haar cascade file as ‘indian_license_plate.xml’ file from my [github](https://github.com/SarthakV7/AI-based-indian-license-plate-detection) profile.)
+The above function works by taking image as input, then applying ‘haar cascade’ that is pre-trained to detect Indian license plates, here the parameter scaleFactor stands for a value by which input image can be scaled for better detection of license plate ([know more](https://sites.google.com/site/5kk73gpu2012/assignment/viola-jones-face-detection#TOC-Image-Pyramid)). minNeighbors is just a parameter to reduce false positives, if this value is low, the algorithm may be more prone to giving a misrecognized outputs. (you can download the haar cascade file as ‘indian_license_plate.xml’ file from my [github](https://github.com/BottomsNode/PlateAI-Indian-License-Plate-Detection-Master) profile.)
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-1">
