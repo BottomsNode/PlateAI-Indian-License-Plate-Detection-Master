@@ -484,6 +484,6 @@ Thank you guys for reading the blog, hope this project is useful for some of you
 And if you have any doubts regarding this project, please leave a comment in the response section.
 
 The full project is available on my Github:
-[https://github.com/BottomsNode/AI-based-indian-license-plate-detection-master-main](https://github.com/BottomsNode/AI-based-indian-license-plate-detection-master-main)
+[https://github.com/BottomsNode/PlateAI-Indian-License-Plate-Detection-Master](https://github.com/BottomsNode/PlateAI-Indian-License-Plate-Detection-Master)
 
 Find me on LinkedIn: [www.linkedin.com/in/nishit-shivdasani](https://www.linkedin.com/in/nishit-shivdasani-b5b3b1237)
