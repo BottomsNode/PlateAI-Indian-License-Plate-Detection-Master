@@ -1,3 +1,12 @@
+# PlateAI: Smart Indian License Plate Detection System
+* PlateAI is an AI-based system designed to detect and recognize Indian license plates in images or video streams. It utilizes deep learning techniques to accurately identify license plates and extract relevant information.
+
+## Features
+* License Plate Detection: PlateAI can detect license plates in images or video frames.
+* License Plate Recognition: Once a license plate is detected, PlateAI can recognize the characters on the plate, providing valuable information such as the vehicle's registration number.
+* Real-Time Processing: PlateAI can process images or video streams in real-time, making it suitable for applications such as traffic monitoring, parking management, and security systems.
+* High Accuracy: PlateAI employs state-of-the-art deep learning models to achieve high accuracy in license plate detection and recognition, even in challenging conditions such as varying lighting and angles.
+
 ### Approach:
 
 **We need to build a system that is capable of -**
